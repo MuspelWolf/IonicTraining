@@ -1,0 +1,7 @@
+{
+  "name": "trainingApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
